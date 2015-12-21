@@ -1,1 +1,1 @@
-this is testing for newfile.txt. Just a test of ls-files
+version 3 this is testing for newfile.txt. Just a test of ls-files
